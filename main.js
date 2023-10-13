@@ -1,4 +1,4 @@
-const audio = new Audio("/hbd.mp3");
+const audio = new Audio("hbd.mp3");
 const buttons = document.querySelectorAll("button");
 
 buttons.forEach(button => {
